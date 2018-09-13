@@ -1,0 +1,66 @@
+ERR034187, Acromyrmex echinatior
+ERR1554906, Anopheles gambiae
+SRR2939026, Bembidion lapponicum
+ERR233308, Biorhiza pallida
+ERR233309, Biorhiza pallida
+ERR233313, Biorhiza pallida
+SRR949786, Callosobruchus chinensis
+SRR952345, Callosobruchus chinensis
+SRR2912519, Ceratina calcarata
+SRR2912581, Ceratina calcarata
+SRR2912589, Ceratina calcarata
+ERR233303, Cynipini
+ERR233306, Cynipini
+SRR1231828, Dactylopius coccus
+SRR1231832, Dactylopius coccus
+SRR4341246, Delias oraia
+SRR1106898, Diabrotica virgifera virgifera
+SRR1106912, Diabrotica virgifera virgifera
+SRR1107707, Diabrotica virgifera virgifera
+SRR2042775, Diachasma alloeum
+SRR2043489, Diachasma alloeum
+SRR2043618, Diachasma alloeum
+SRR189236, Diaphorina citri
+SRR189237, Diaphorina citri
+SRR649417, Diaphorina citri
+SRR4342174, Diploeciton nevermanni
+ERR1359308, Diplolepis spinosa
+ERR1359312, Diplolepis spinosa
+ERR1092813, Drosophila melanogaster
+SRR2347338, Drosophila melanogaster
+SRR3931592, Drosophila melanogaster
+ERR1597896, Drosophila simulans
+ERR1597899, Drosophila simulans
+ERR1597900, Drosophila simulans
+DRR061000, Drosophila triauraria
+SRR2318687, Drosophila yakuba
+SRR2318706, Drosophila yakuba
+SRR4301374, Ecitophya simulans
+SRR1197265, Gerris buenoi
+SRR1197267, Gerris buenoi
+SRR941995, Homalodisca vitripennis
+SRR941997, Homalodisca vitripennis
+SRR941998, Homalodisca vitripennis
+ERR1359249, Isocolus centaureae
+ERR1359250, Isocolus centaureae
+ERR1189167, Maconellicoccus hirsutus
+SRR1145746, Megacopta cribraria
+SRR2954433, Mycopsylla fici
+SRR2954467, Mycopsylla fici
+SRR2954473, Mycopsylla proxima
+SRR1618545, Operophtera brumata
+SRR1618581, Operophtera brumata
+SRR1618582, Operophtera brumata
+SRR1190479, Pararge aegeria
+ERR1355090, Pediaspis aceris
+ERR1355091, Pediaspis aceris
+SRR1190476, Polygonia c-album
+SRR1742977, Pseudomyrmex sp. PSW-54
+SRR3896004, Rhagoletis pomonella
+SRR3900841, Rhagoletis pomonella
+SRR3901027, Rhagoletis pomonella
+SRR3670118, Rhagoletis zephyria
+SRR3670120, Rhagoletis zephyria
+SRR3670652, Rhagoletis zephyria
+SRR1191749, Trichogramma pretiosum
+SRR1191752, Trichogramma pretiosum
